@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=AI-Powered+SEO+Audit+Platform;Analyze+Websites+in+Seconds;Technical+Insights+%2B+AI+Growth+Plans;Built+for+Founders%2C+Devs+%26+Agencies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=3000&pause=1000&color=C8FB4A&center=true&vCenter=true&width=850&lines=AI-Powered+SEO+Audit+Platform;Analyze+Websites+in+Seconds;Technical+Insights+%2B+AI+Growth+Plans;Built+for+Founders%2C+Devs+%26+Agencies" />
 </p>
 
 <br/>
@@ -14,38 +14,32 @@
 
 <br />
 
-[![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq-FF6B00?style=flat-square)](https://groq.com)
-[![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)]()
+<p>
+  <img src="https://img.shields.io/badge/React-18-C8FB4A?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-0.104-C8FB4A?style=flat-square&logo=fastapi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3.11-C8FB4A?style=flat-square&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Powered%20by-Groq-C8FB4A?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-C8FB4A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-C8FB4A?style=flat-square" />
+</p>
 
 <br />
 
 [**🌐 Live Demo**](https://growthlens.ai) · [**🐛 Report Bug**](https://github.com/shubhammarwade/growthlens-ai/issues) · [**💡 Request Feature**](https://github.com/shubhammarwade/growthlens-ai/discussions) · [**📬 Contact**](https://linkedin.com/in/shubhammarwade)
 
-<br />
+</div>
 
 ---
 
-</div>
+## 🎬 Demo
 
-<br />
+<p align="center">
+  <img src="assets/GrowthLensAI.gif" width="900"/>
+</p>
 
-## 🎥 Demo
-
-<div align="center">
-
-<img src="assets/GrowthLensAI.gif" width="900" style="border-radius:12px; box-shadow:0 10px 40px rgba(200,251,74,0.25);" />
-
-<br/><br/>
-
-<span style="color:#C8FB4A; font-weight:600;">
-Real-time SEO analysis • AI insights • Growth strategy generation
-</span>
-
-</div>
+<p align="center">
+  <b>Real-time SEO analysis • AI insights • Growth strategy generation</b>
+</p>
 
 <br />
 
