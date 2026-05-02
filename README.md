@@ -1,19 +1,16 @@
 <div align="center">
 
-<br />
+<img src="assets/growthlens-logo.svg" width="600"/>
 
-```
-   ██████╗ ██████╗  ██████╗ ██╗    ██╗████████╗██╗  ██╗██╗     ███████╗███╗   ██╗███████╗
-  ██╔════╝ ██╔══██╗██╔═══██╗██║    ██║╚══██╔══╝██║  ██║██║     ██╔════╝████╗  ██║██╔════╝
-  ██║  ███╗██████╔╝██║   ██║██║ █╗ ██║   ██║   ███████║██║     █████╗  ██╔██╗ ██║███████╗
-  ██║   ██║██╔══██╗██║   ██║██║███╗██║   ██║   ██╔══██║██║     ██╔══╝  ██║╚██╗██║╚════██║
-  ╚██████╔╝██║  ██║╚██████╔╝╚███╔███╔╝   ██║   ██║  ██║███████╗███████╗██║ ╚████║███████║
-   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝    ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚══════╝
-```
+<br/>
 
-### **AI SEO Copilot for Instant Website Intelligence**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=AI-Powered+SEO+Audit+Platform;Analyze+Websites+in+Seconds;Technical+Insights+%2B+AI+Growth+Plans;Built+for+Founders%2C+Devs+%26+Agencies" />
+</p>
 
-*Analyze any website. Get technical SEO insights, performance scoring, and AI-driven growth strategies — in seconds.*
+<br/>
+
+**Analyze any website. Get technical SEO insights, performance scoring, and AI-driven growth strategies — in seconds.**
 
 <br />
 
@@ -38,20 +35,17 @@
 
 ## 🎥 Demo
 
-> **Replace this with your recorded GIF** — use [ScreenToGif](https://www.screentogif.com/) or [OBS Studio](https://obsproject.com/)
+<div align="center">
 
-```
-📌 Record this flow:
-   1. Type a URL into the command bar
-   2. Watch the 3-step scan loader animate
-   3. Show the radar chart + score ring populate
-   4. Click through all 4 tabs
-   5. Hit the Export button
-```
+<img src="assets/GrowthLensAI.gif" width="900" style="border-radius:12px; box-shadow:0 10px 40px rgba(200,251,74,0.25);" />
 
-![GrowthLens Demo](./assets/demo.gif)
+<br/><br/>
 
-> 💡 **Pro tip:** A good demo GIF increases GitHub engagement by 2–5×. Add it before sharing.
+<span style="color:#C8FB4A; font-weight:600;">
+Real-time SEO analysis • AI insights • Growth strategy generation
+</span>
+
+</div>
 
 <br />
 
@@ -521,7 +515,7 @@ Every star is a signal that AI-first developer tools matter. Thank you.
 
 <br />
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-ff4b5c?style=for-the-badge)]()
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-ffffff?style=for-the-badge)]()
 [![Built by Shubham](https://img.shields.io/badge/Built%20by-Shubham%20Marwade-FF6B6B?style=for-the-badge)](https://github.com/shubhammarwade)
 
 </div>
