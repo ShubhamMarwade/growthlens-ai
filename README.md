@@ -20,8 +20,7 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
-[![Claude AI](https://img.shields.io/badge/Powered%20by-Claude%20AI-D4FF47?style=flat-square)](https://anthropic.com)
+[![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq-FF6B00?style=flat-square)](https://groq.com)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)]()
 
@@ -224,7 +223,7 @@ Every technical decision was intentional:
 | Charts | Hand-written SVG | Radar chart, sparklines, score ring |
 | HTTP | Axios | API communication |
 | Backend | FastAPI (Python) | REST API + routing |
-| AI Engine | Claude / OpenAI API | Growth insight generation |
+| AI Engine | Groq API | Growth insight generation |
 | Crawler | BeautifulSoup + Requests | Page signal extraction |
 | Fonts | Bebas Neue + Space Grotesk + JetBrains Mono | 3-font typographic system |
 
@@ -250,12 +249,12 @@ growthlens-ai/
 │   ├── main.py                  # FastAPI app + /analyze endpoint
 │   ├── seo_analyzer.py          # Crawler + signal extraction (40+ checks)
 │   ├── ai_engine.py             # LLM prompt engineering + response handling
-│   └── requirements.txt
+│   ├── requirements.txt
+│   └── .env.example
 │
 ├── 📂 assets/
 │   └── demo.gif                 # ← Add your screen recording here
 │
-├── .env.example
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -307,8 +306,7 @@ cp .env.example .env
 ```
 
 ```env
-ANTHROPIC_API_KEY=sk-ant-...
-VITE_API_URL=http://127.0.0.1:8000
+GROQ_API_KEY=your_groq_api_key_here
 ```
 
 <br />
@@ -361,8 +359,8 @@ const API_URL = import.meta.env.VITE_API_URL + "/analyze";
 | Layer | Platform | Status |
 |---|---|---|
 | Frontend | [Vercel](https://vercel.com) | `npm run build` → auto-deploy |
-| Backend | [Render](https://render.com) / [Railway](https://railway.app) | `uvicorn main:app` |
-| Domain | Custom | `growthlens.ai` |
+| Backend | [Vercel](https://vercel.com) → Embedded with Frontend | `uvicorn main:app` |
+| Domain → In Future | Custom | `growthlens.ai` |
 
 ```bash
 # Frontend — push to main branch, Vercel auto-deploys
@@ -491,7 +489,7 @@ Passionate about tools that make complex systems feel instant and obvious.
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shubhammarwade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubham-marwade-722b48251/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/shubhammarwade)
 
 </div>
@@ -523,7 +521,7 @@ Every star is a signal that AI-first developer tools matter. Thank you.
 
 <br />
 
-[![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-ff4b5c?style=for-the-badge)]()
 [![Built by Shubham](https://img.shields.io/badge/Built%20by-Shubham%20Marwade-FF6B6B?style=for-the-badge)](https://github.com/shubhammarwade)
 
 </div>
