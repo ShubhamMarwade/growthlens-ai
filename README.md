@@ -23,7 +23,7 @@
 
 <br />
 
-[**🌐 Live Demo**](https://growthlens.ai) · [**🐛 Report Bug**](https://github.com/shubhammarwade/growthlens-ai/issues) · [**💡 Request Feature**](https://github.com/shubhammarwade/growthlens-ai/discussions) · [**📬 Contact**](https://linkedin.com/in/shubhammarwade)
+[**🌐 Live Demo**](https://growthlens-ai-three.vercel.app/) · [**🐛 Report Bug**](https://github.com/shubhammarwade/growthlens-ai/issues) · [**💡 Request Feature**](https://github.com/shubhammarwade/growthlens-ai/discussions) · [**📬 Contact**](mailto:shubhammarwade18@gmail.com)
 
 <br />
 
@@ -64,8 +64,8 @@ $ audit https://example.com
 ║         GrowthLens AI — Audit Report     ║
 ╠══════════════════════════════════════════╣
 ║  URL    : https://example.com            ║
-║  Score  : 78 / 100  ▓▓▓▓▓▓▓▓░░  GOOD   ║
-║  Scanned: 2.4s  ·  42 signals checked   ║
+║  Score  : 78 / 100  ▓▓▓▓▓▓▓▓░░  GOOD     ║
+║  Scanned: 2.4s  ·  42 signals checked    ║
 ╚══════════════════════════════════════════╝
 
 Issues Detected
@@ -108,7 +108,7 @@ Growth Plan  (this month)
 │                                                             │
 │   [User Input]  →  React UI  →  Command Bar / Keyboard      │
 │                                                             │
-│         ↓  POST /analyze { url }                           │
+│         ↓  POST /analyze { url }                            │
 │                                                             │
 │   [FastAPI Backend]                                         │
 │         │                                                   │
@@ -353,7 +353,7 @@ const API_URL = import.meta.env.VITE_API_URL + "/analyze";
 | Layer | Platform | Status |
 |---|---|---|
 | Frontend | [Vercel](https://vercel.com) | `npm run build` → auto-deploy |
-| Backend | [Vercel](https://vercel.com) → Embedded with Frontend | `uvicorn main:app` |
+| Backend | [Render](https://render.com) | `uvicorn main:app` |
 | Domain → In Future | Custom | `growthlens.ai` |
 
 ```bash
@@ -363,7 +363,7 @@ git push origin main
 # Backend — set env vars on Render dashboard, connect repo
 ```
 
-**Live:** 👉 [https://growthlens.ai](https://growthlens.ai)
+**Live:** 👉 [https://growthlens.ai](https://growthlens-ai-three.vercel.app/)
 
 <br />
 

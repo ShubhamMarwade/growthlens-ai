@@ -1231,8 +1231,8 @@ export default function App() {
 
           {/* FOOTER */}
           <footer className="footer">
-            <span>GROWTHLENS AI © 2025</span>
-            <span>POWERED BY CLAUDE · {history.length} AUDITS THIS SESSION</span>
+            <span>GROWTHLENS AI © 2026</span>
+            <span>BUILT BY SHUBHAM MARWADE · {history.length} AUDITS THIS SESSION</span>
           </footer>
         </main>
       </div>
