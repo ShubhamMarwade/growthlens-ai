@@ -834,7 +834,7 @@ export default function App() {
     const t1 = setTimeout(() => setScanStep(1), 1000);
     const t2 = setTimeout(() => setScanStep(2), 2100);
     try {
-      const res = await axios.post('http://127.0.0.1:8000/analyze', { url: target });
+      const res = await axios.post('https://growthlens-ai-backend.onrender.com/analyze', { url: target });
       clearTimeout(t1); clearTimeout(t2);
       setResult(res.data);
       setHistory(h => [{ url: target, score: res.data.seo_score, time: new Date() }, ...h.slice(0, 9)]);
